@@ -2,5 +2,5 @@ game_state.jsonl
 __pycache__/
 .python-version
 .venv/
-.uv.lock
+uv.lock
 .pyproject.toml
